@@ -1,0 +1,91 @@
+h1{
+  color: #ffffff;
+  text-transform: capitalize;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+body{
+  background-image:url(background.png.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+label{
+  color: #ffffff;
+  font-size: 15fpx;
+  font-family: Arial, Helvetica, sans-serif;
+}
+input{
+ background-color: #ffffff;
+ font-family: Arial, Helvetica, sans-serif;
+ padding: 7px;  
+ border-radius: 10px;
+ width: 150px;
+ border:hidden;
+}
+
+
+#form{
+  background-image:url(SoftwareDevelopment.png.jpg);
+  border:1px solid #313131;
+  border-radius:5px;
+  width: 50%;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 90px;
+  border:hidden;
+}
+
+
+/* h1{
+  text-shadow:2px 2px red ;
+} */
+
+/* .Sample{
+  text-decoration:underline;
+} */
+
+/* #div1{
+  background-image:url(SoftwareDevelopment.png.jpg);
+  border:2px solid black;
+  padding:30px 0px 10px 40px;
+  width: 30%;
+  margin:50px 30px 70px 50px;
+  margin: 50px 90px;
+  padding: 70px 40px;
+  opacity:0.5;
+  box-shadow: 5px 5px #d4d1d1;
+}
+
+#div1:hover{
+  opacity:1;
+} */
+
+/* #div2{
+  animation-name: myAnimation;
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-timing-function: ease-in-out;
+  position: relative;
+  border:2px solid white;
+  padding:30px 0px 10px 40px;
+  width: 30%;
+  margin:50px 30px 70px 50px;
+  margin: 50px 90px;
+  padding: 70px 40px;
+  color: white;
+  background-image:linear-gradient(to right, blue,rgba(0, 255, 0, 1.0))
+} */
+
+/* @keyframes myAnimation{
+  from{
+    left:0px;
+    background-image: linear-gradient(to right, red, blue);
+  }
+  to{
+    left: 600px;
+    background-image: linear-gradient(to left, green, blue);
+  }
+} */
