@@ -21,5 +21,5 @@
 
 // }
 
-var div=document.getElementById('div1first');
-div.style.backgroundColor='brown';
+// var div=document.getElementById('div1first');
+// div.style.backgroundColor='brown';
